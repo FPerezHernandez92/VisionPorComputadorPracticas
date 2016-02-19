@@ -1,0 +1,13 @@
+T1 (T1) (C. Febrero)	9
+Observaciones: PEREZ HERNANDEZ_FRANCISCO_20076629: 9
+
+Memoria-Implementación: 4
+A1.- nada se comenta sobre el tamaño y el cálculo de la máscara. No se muestran resultados. La discretización de la gaussiana es erronea.
+A2.- Comentarios de caracter genérico que no aportan nada. No se muestran resultados
+A3.- Ningún comentario acerca de la implementación de la convolución 2D
+B.- Ningun comentario sobre la selección de las imágenes de alta y baja.La creación de las imágenes híbridas es erronea en todos los casos mostrados. Lo que muestra que no se ha entendido el concepto.
+C.- El uso de copyTo en el comienzo no es correcto deberían de haberse usado clone().
+
+Cuestionario: 5
+Conestaciones parciales:6,11
+Contestaciones erroneas:2,7,8,9,12,13
